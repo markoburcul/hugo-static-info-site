@@ -1,39 +1,28 @@
 enable  : true
-title   : "OPINION FROM REAL PEOPLE"
-subtitle: "What clients says about our services."
+title   : "VRSTE PSIHOTERAPIJE"
+subtitle: "Njegujući Vašu mentalnu dobrobit, raznolikost psihoterapijskih pristupa"
 testimonial_item :
   - thumb : "images/testimonial/user-thumb-one.jpg"
-    name  : "Simonns Hodge"
-    company_position: "CEO, Credito"
+    name  : "Individualna psihoterapija"
     quote : > 
-            "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
+            "Psihoterapija za pojedinca pruža se osobama koje cijene privatnost, osjećaj sigurnosti te traže posvećenu pažnju u rješavanju svojih problema. To je najefikasniji način da se postigne osobni cilj, iako može biti dugotrajan proces." 
 
   - thumb : "images/testimonial/user-thumb-two.jpg"
-    name  : "Rekon Montino"
-    company_position: "CDO, Bulmuci"
+    name  : "Partnerska psihoterapija"
     quote : > 
-            "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
+            "Partnerska psihoterapija može pomoći ako vam se čini da se ne razumijete s partnerom/partnericom. Možda se često zatičete u svađama koje ne dovode do rješenja. Ili ste se jednostavno otuđili i izgubili povezanost i povjerenje." 
 
   - thumb : "images/testimonial/user-thumb-three.jpg"
-    name  : "Ryan Hillary"
-    company_position: "MD, Udilamo"
+    name  : "Obiteljska psihoterapija"
     quote : > 
-            "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush." 
+            "Pružanje podrške članovima obitelji u boljem razumijevanju problema s kojim se suočavaju. Kroz ovaj proces, potiče ih se da stvore nove uvide i perspektive koje im omogućuju da pronađu rješenja koja ranije nisu bila vidljiva. Budući da je pojedinca teško promatrati izvan konteksta obitelji, ova terapija uključuje sudjelovanje više članova kako bi se stvorila cjelovita slika i omogućilo holističko iscjeljenje." 
 
   - thumb : "images/testimonial/user-thumb-four.jpg"
-    name  : "Dockrel Kahn"
-    company_position: "PM, Walmet"
+    name  : "Savjetovanje"
     quote : > 
-            "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
+            "Savjetovanje je kraća forma i usmjerena je na rješavanje nekog određenog problema ili donošenja odluke. Pri tome se u savjetodavnom razgovoru razmatraju mogući izbori, misli i osjećaji koji se vezuju uz pojedine ishode. Savjetovanje je i pronalaženje odgovora na kriznu situaciju u životu pojedinca ili obitelji, učenje životnih vještina, podrška ..." 
 
   - thumb : "images/testimonial/user-thumb-five.jpg"
-    name  : "Orino Monteno"
-    company_position: "CEO, Axion"
+    name  : "Supervizija"
     quote : > 
-            "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
-
-  - thumb : "images/testimonial/user-thumb-six.jpg"
-    name  : "Welfo Roy"
-    company_position: "PDO, Komoyo"
-    quote : > 
-            "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush." 
+            "Supervizija pruža profesionalcima pomoć i podršku tijekom izazovnih situacija i u složenim profesionalnim ulogama. Ona je ključna podrška za stručnjake koji rade s ljudima, pružajući im korisne uvide i održavajući njihovu inspiraciju te sprječavajući sagorijevanje na poslu. Supervizija je interaktivni proces koji potiče kreativnost i omogućava razmjenu dragocjenih spoznaja među svim sudionicima." 

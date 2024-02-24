@@ -1,14 +1,3 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
-counter_item: 
-  - title: "Happy Clients"
-    number: "250"
-
-  - title: "Projects Completed"
-    number: "100"
-
-  - title: "Cups of coffee"
-    number: "350"
-
-  - title: "Telephone Talks"
-    number: "775"
+heading : "Psihoterapija je prekrasno iskustvo"
+body: "Psihoterapija nudi nove izbore, otkriva i razvija aktivnosti za napredak i promjenu. Živimo u stvarnosti u kojoj iscjeljujući odnosi u obitelji nisu dovoljni, a onda niti oni prijateljski i partnerski. Ponekad su upravo ti odnosi bolni. U susretu s terapeutom koji priziva povjerenje i odnos prema svakom pojedincu ponaosob, teme i osjećaji koje dijelimo mogu dobiti nova značenja i biti poticaj za promjenu kojoj se teži."
