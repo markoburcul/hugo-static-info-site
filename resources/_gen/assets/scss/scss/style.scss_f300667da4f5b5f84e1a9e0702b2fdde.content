@@ -414,7 +414,7 @@ textarea.form-control {
         font-weight: 300;
         transition: all 0.3s ease; }
       .site-project-pagination .pagination .page-item.active .page-link, .site-blog-pagination .pagination .page-item.active .page-link {
-        background-color: #EAA4A4;
+        background-color: #3b5983;
         color: #fff; }
       .site-project-pagination .pagination .page-item.disabled, .site-blog-pagination .pagination .page-item.disabled {
         opacity: 0.3;
