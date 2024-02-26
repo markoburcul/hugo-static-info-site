@@ -1,7 +1,7 @@
 baseURL       = "http://example.org/"
 languageCode  = "en-us"
 title         = "Reci-da | psihoterapija"
-theme         = "roxo-hugo"
+theme         = "roxo-hugo-clone"
 summarylength = 25
 
 # Site Menus
