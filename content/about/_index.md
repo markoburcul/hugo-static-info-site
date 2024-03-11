@@ -9,6 +9,7 @@ Njezina profesionalna putanja obuhvaća raznolika zaposlenja i dodatne stručne 
 
 Tijekom godina, svoje znanje i iskustvo prenosila je kroz vodstvo supervizijskih grupa diljem Hrvatske. Aktivno je sudjelovala u supervizijskom radu u Zadru, Šibeniku i Zagrebu te je bila dio projekta 'Škola puna mogućnosti za pomoćnike u nastavi'. Njezina strast prema pružanju podrške i razvoju stručnih vještina vodila ju je kroz različite aspekte socijalnog rada i psihoterapije, te je i danas motivira da kontinuirano doprinosi zajednici i razvoju struke.
 "
+scenery_image: "images/scenery-picture.png"
 profile_image: "images/profile-picture.png"
 expertise_title: "Ekspertiza"
 expertise_sectors: ["Individualna psihoterapija", "Partnerska psihoterapija", "Obiteljska psihoterapija", "Savjetovanje", "Supervizija"]
