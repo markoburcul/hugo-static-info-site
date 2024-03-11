@@ -45,19 +45,19 @@ summarylength = 25
     placeholder_message           = "Poruka"
     send_message                  = "Pošalji poruku"
 
-    [[params.contactForm.projectType]]
+    [[params.contactForm.serviceType]]
       value = "Savjetovanje"
       title  = "Savjetovanje"
-    [[params.contactForm.projectType]]
+    [[params.contactForm.serviceType]]
       value = "Individualna psihoterapija"
       title  = "Individualna psihoterapija"
-    [[params.contactForm.projectType]]
+    [[params.contactForm.serviceType]]
       value = "Partnerska psihoterapija"
       title  = "Partnerska psihoterapija"
-    [[params.contactForm.projectType]]
+    [[params.contactForm.serviceType]]
       value = "Obiteljska psihoterapija"
       title  = "Obiteljska psihoterapija"
-    [[params.contactForm.projectType]]
+    [[params.contactForm.serviceType]]
       value = "Supervizija"
       title  = "Supervizija"
   
