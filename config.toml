@@ -27,9 +27,9 @@ summarylength = 25
   favicon_icon = "images/favicon.ico"
   favicon_shortcut_icon = "images/favicon.png"
   custom_stylesheets = []   # [ "scss/my_1.scss", "scss/my_2.scss" ]
-  dateFormat = "26 FEB 1994"
+  dateFormat = "11 MAR 2024"
   # Meta data
-  description = "Reci-Da psihoterapeut Vesna Burcul"
+  description = "Psihoterapeut Vesna Burcul"
   author = "Marko Burcul"
   # Google Analitycs
   googleAnalitycsID = "Your ID"
