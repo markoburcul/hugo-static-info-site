@@ -3,6 +3,7 @@ languageCode  = "en-us"
 title         = "Vesna Burcul | Psihoterapeut"
 theme         = "roxo-hugo-clone"
 summarylength = 25
+enableRobotsTXT = true
 
 # Site Menus
 [menu]
@@ -31,6 +32,7 @@ summarylength = 25
   # Meta data
   description = "Psihoterapeut Vesna Burcul"
   author = "Marko Burcul"
+  tags = "psihoterapija,zadar,hrvatska,psihoterapeut,mentalno zdravlje,supervizija,savjetovanje,individualna psihoterapija, obiteljska psihoterapija, partnerska psihoterapija, psihoterapeut zadar"
   # Google Analitycs
   googleAnalitycsID = "G-Z1NZ6RDCSW"
   # We're using formspree.io for form handling, paste your formspree url below
